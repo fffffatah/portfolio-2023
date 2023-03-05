@@ -1,0 +1,9 @@
+{
+    "stories":[
+        {
+            "image":"../images/Intro.png",
+            "title":"Intro",
+            "story":"I am currently working as a Software Engineer at ZAAG Systems Limited, learning full-stack software development, system design and playing around with different technologies."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "experience":[
+        {
+            "designation":"Software Engineer",
+            "technologies":".NET, Microsoft Azure",
+            "details":"Collaborated with the team and client to achieve common goals. Also, solved problems on a regular basis and performed system design for the assigned project. Additionally, performed DevOps related tasks.",
+            "organization":" ZAAG Systems Limited",
+            "logo":"../images/ZaagLogo.png",
+            "url":"https://zaagsys.com/",
+            "duration":"December, 2022 - Current"
+        },
+        {
+            "designation":"Associate Software Engineer",
+            "technologies":".NET, Microsoft Azure",
+            "details":"Collaborated with the team and client to achieve common goals. Also, solved problems on a regular basis and performed system design for the assigned project. Additionally, performed DevOps related tasks.",
+            "organization":" Brain Station 23 Ltd.",
+            "logo":"../images/BsLogo.jpeg",
+            "duration":"June, 2022 - November, 2022"
+        },
+        {
+            "designation":"Software Engineer Intern",
+            "technologies":".NET, Microsoft Azure",
+            "details":"Worked with .NET 6, Azure Cosmos DB and other Microsoft Azure services such as Azure Web PubSub, Azure EventHub and Azure AD B2C. Also, learned software development best practices and application of agile methodologies.",
+            "organization":" Brain Station 23 Ltd.",
+            "logo":"../images/BsLogo.jpeg",
+            "url":"https://brainstation-23.com/?bs",
+            "duration":"February, 2022 - May, 2022"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "projects":[
+        {
+            "title":"Shanty API",
+            "description":"Built an API for a music streaming service from scratch with JWT authentication enabled. Email verification using ‘SendGrid’ and password hashing using ‘Bcrypt’ has also been built into it. * Built with ASP Dotnet Core. * MySQL (to store user info), MongoDB. * Azure Blob Storage (to save images and audio files). * API documentation has been automatically generated from ‘swagger.json’ with ‘Readme.io’",
+            "source":"https://github.com/fffffatah/ShantyWebAPI"
+        },
+        {
+            "title":"Quickly API",
+            "description":"Built a project management tool with multiple user and permission support.",
+            "source":"https://github.com/fffffatah/Quickly"
+        },
+        {
+            "title":"Heimdall - Home Media System",
+            "description":"Built a home media system that can be deployed on Raspberry Pi. It includes Docker scripts which can be used to deploy the system in a Docker Container. * Built with Laravel, Bootstrap5, SQLite.",
+            "source":"https://github.com/fffffatah/Heimdall-Home-Media-System"
+        },
+        {
+            "title":"Industryal ERP",
+            "description":"Built an ERP system with 3 group members as a part of ‘Advanced Programming in Web Technology’ course project. The system tries to incorporate the basic features of an ERP system. * Built with Laravel, Bootstrap5, MySQL",
+            "source":"https://github.com/fffffatah/Industryal-An-ERP-System"
+        },
+        {
+            "title":"Forseti - Case Management System",
+            "description":"Built a case management system with vanilla JS and PHP. Database triggers and functions has also been implemented. * JavaScript, Bootstrap4, PHP, Oracle Database, PL/SQL.",
+            "source":"https://github.com/fffffatah/Forseti---for-Managing-Cases"
+        },
+        {
+            "title":"USB Pi Automount",
+            "description":"Written a shell script that can automatically mount/unmount USB drives on connect/disconnect for Raspberry Pi running any Linux distribution. The setup script takes mount path as input and the script mounts drives to the given path.",
+            "source":"https://github.com/fffffatah/usb_pi_automount"
+        },
+        {
+            "title":"Hostel X",
+            "description":"Built a hostel management system with 3 group members as a part of ‘Object Oriented Programming 2 (C#)’ course project. * Built with WinForms, SQL Server. * ‘Twilio’ (OTP Auth), ‘SendGrid’ (Email verification).",
+            "source":"https://github.com/fffffatah/HostelX"
+        },
+        {
+            "title":"My Diary",
+            "description":"Built a simple WinForm diary app with SQL Server being the database.",
+            "source":"https://github.com/fffffatah/MyDiary"
+        }
+    ]
+}

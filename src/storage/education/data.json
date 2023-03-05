@@ -1,0 +1,338 @@
+{
+    "education":[
+        {
+            "institution":"American International University-Bangladesh",
+            "degree":"BSc in Computer Information System",
+            "year":"2018 - 2022",
+            "CGPA":"3.99/4",
+            "credits":"129/129",
+            "achievements":[
+                {
+                    "name":" Dean’s List Honors (Spring 2018-2019 Semester)"
+                }
+            ],
+            "semesters":[
+                {
+                    "session":"2018 - 2019, Fall",
+                    "courses":[
+                        {
+                            "name":"Basics in Natural Science",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (100%)"
+                        },
+                        {
+                            "name":"English Reading Skills & Public Speaking",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90%)"
+                        },
+                        {
+                            "name":"Introduction to Computer Studies",
+                            "credt":"1",
+                            "description":"",
+                            "result":"A+ (91%)"
+                        },
+                        {
+                            "name":"Introduction to Programming Lab (C/C++)",
+                            "credt":"1",
+                            "description":"",
+                            "result":"A+ (100%)"
+                        },
+                        {
+                            "name":"Introduction to Programming (C/C++)",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (100%)"
+                        },
+                        {
+                            "name":"Business Math 1",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (95.4%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2018 - 2019, Spring",
+                    "courses":[
+                        {
+                            "name":"Data Structure",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (92%)"
+                        },
+                        {
+                            "name":"Data Structure Lab",
+                            "credt":"1",
+                            "description":"",
+                            "result":"A+ (98%)"
+                        },
+                        {
+                            "name":"Discrete Mathematics",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (91%)"
+                        },
+                        {
+                            "name":"Business Math 2",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (99%)"
+                        },
+                        {
+                            "name":"English Writing Skills & Communication",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+(91%)"
+                        },
+                        {
+                            "name":"Principles of Management",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (99%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2018 - 2019, Summer",
+                    "courses":[
+                        {
+                            "name":"Introduction to Database",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (98.2%)"
+                        },
+                        {
+                            "name":"Business Statistics",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (98%)"
+                        },
+                        {
+                            "name":"Business Communication",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (92%)"
+                        },
+                        {
+                            "name":"Management Information Systems",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (95.2%)"
+                        },
+                        {
+                            "name":"Object Oriented Programming 1 (Java)",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (93%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2019 - 2020, Spring",
+                    "courses":[
+                        {
+                            "name":"Algorithms",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (99%)"
+                        },
+                        {
+                            "name":"Computer Organization and Architecture",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90%)"
+                        },
+                        {
+                            "name":"Object Oriented Analysis and Design",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (95%)"
+                        },
+                        {
+                            "name":"Principles of Economics",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (96%)"
+                        },
+                        {
+                            "name":"Enterprise Resource Planning",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (92.4%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2019 - 2020, Summer",
+                    "courses":[
+                        {
+                            "name":"Object Oriented Programming 2 (C#)",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (96%)"
+                        },
+                        {
+                            "name":"Operating System",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (94%)"
+                        },
+                        {
+                            "name":"Software Engineering",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90%)"
+                        },
+                        {
+                            "name":"Principles of Accounting",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (97%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2020 - 2021, Fall",
+                    "courses":[
+                        {
+                            "name":"Artificial Intelligence and Expert System",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90.4%)"
+                        },
+                        {
+                            "name":"Computer Networks",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (91%)"
+                        },
+                        {
+                            "name":"Web Technologies",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (96%)"
+                        },
+                        {
+                            "name":"Software Project 1",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2020 - 2021, Spring",
+                    "courses":[
+                        {
+                            "name":"Data Communication",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90%)"
+                        },
+                        {
+                            "name":"Advanced Database Management System",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (95%)"
+                        },
+                        {
+                            "name":"E-Governance",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (94.4%)"
+                        },
+                        {
+                            "name":"Principles of Marketing",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (94%)"
+                        },
+                        {
+                            "name":"Software Project 2",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2020 - 2021, Summer",
+                    "courses":[
+                        {
+                            "name":"Advanced Operating System",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (100%)"
+                        },
+                        {
+                            "name":"Advanced Programming in Web Technology",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (93%)"
+                        },
+                        {
+                            "name":"Internet Security",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (99.6%)"
+                        },
+                        {
+                            "name":"Computer and Information Ethics",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (92.4%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2021 - 2022, Fall",
+                    "courses":[
+                        {
+                            "name":"Advanced Programming With .NET",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (99%)"
+                        },
+                        {
+                            "name":"Multimedia Systems",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (95.06%)"
+                        },
+                        {
+                            "name":"Software Development Project Management",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (92%)"
+                        },
+                        {
+                            "name":"Software Requirement Engineering",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A (85%)"
+                        },
+                        {
+                            "name":"Advanced Computer Networks",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (94%)"
+                        }
+                    ]
+                },
+                {
+                    "session":"2021 - 2022, Spring",
+                    "courses":[
+                        {
+                            "name":"Internship",
+                            "credt":"3",
+                            "description":"",
+                            "result":"A+ (90%)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

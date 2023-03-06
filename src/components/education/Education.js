@@ -11,7 +11,7 @@ export default function Education(){
         <div style={{'padding-top':'50px'}}>
             <Container>
                 <Row xs={1} md={2}>
-                    <Col>
+                    <Col style={{'padding-top':'15px'}}>
                         <Bachelor/>
                     </Col>
                 </Row>

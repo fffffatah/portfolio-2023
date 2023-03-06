@@ -51,7 +51,7 @@ export default function Bachelor(){
                             Educations.education[0].semesters.length?(
                                 Educations.education[0].semesters.map((semester)=>{
                                     return(
-                                        <Col>
+                                        <Col style={{'padding-top':'15px'}}>
                                             <Card>
                                                 <Card.Header as="h5">{semester.session}</Card.Header>
                                                     <Card.Body>
@@ -88,7 +88,7 @@ export default function Bachelor(){
                 </Container>
                 </Modal.Body>
                 <Modal.Footer>
-                    <Nav.Link href={Grade} download>
+                    <Nav.Link href={Grade} download style={{'font-family':'Segoe UI'},{'color':'#3B8CF5'}}>
                         Download Grade Report
                     </Nav.Link>
                 </Modal.Footer>

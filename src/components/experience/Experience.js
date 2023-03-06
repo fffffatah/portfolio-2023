@@ -14,7 +14,7 @@ export default function Experience(){
                             Exps.experience.length?(
                                 Exps.experience.map((experience)=>{
                                     return(
-                                        <Col>
+                                        <Col style={{'padding-top':'15px'}}>
                                             <Card>
                                                 <Card.Header as="h5">{experience.designation}</Card.Header>
                                                 <Card.Body>

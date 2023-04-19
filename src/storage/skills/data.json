@@ -20,15 +20,11 @@
                     "description":""
                 },
                 {
-                    "name":"Shell Script",
+                    "name":"Shell Scripting",
                     "description":""
                 },
                 {
                     "name":"C/C++",
-                    "description":""
-                },
-                {
-                    "name":"Python",
                     "description":""
                 }
             ]
@@ -58,15 +54,11 @@
             "title":"Databases",
             "tools":[
                 {
-                    "name":"Cosmos DB",
+                    "name":"Azure CosmosDB",
                     "description":""
                 },
                 {
                     "name":"MongoDB",
-                    "description":""
-                },
-                {
-                    "name":"MySQL",
                     "description":""
                 },
                 {
@@ -97,10 +89,27 @@
             ]
         },
         {
-            "title":"Cloud Computing",
+            "title":"Cloud",
             "tools":[
                 {
                     "name":"Microsoft Azure",
+                    "description":""
+                }
+            ]
+        },
+        {
+            "title":"Others",
+            "tools":[
+                {
+                    "name":"REST API",
+                    "description":""
+                },
+                {
+                    "name":"Serverless",
+                    "description":""
+                },
+                {
+                    "name":"Microservices",
                     "description":""
                 }
             ]

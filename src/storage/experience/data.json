@@ -3,7 +3,7 @@
         {
             "designation":"Software Engineer",
             "technologies":".NET, Microsoft Azure",
-            "details":"",
+            "details":"Working with a medium sized team to provide support for an already existing e-commerce platform, performing bug fixes and planning new features by working with the Business Analyst and Development team.",
             "organization":" ZAAG Systems Limited",
             "logo":"../images/ZaagLogo.png",
             "url":"https://zaagsys.com/",
@@ -12,7 +12,7 @@
         {
             "designation":"Associate Software Engineer",
             "technologies":".NET, Microsoft Azure",
-            "details":"Collaborated with the team and client to achieve common goals. Also, solved problems on a regular basis and performed system design for the assigned project. Additionally, performed DevOps related tasks.",
+            "details":"Collaborated with the team and client to achieve common goals. Also, solved problems on a regular basis and performed system design for the assigned project. Additionally, performed DevOps related tasks. Worked on an IoT project where IoT devices collect data by analyzing any form of liquid, store it, process it and visualize in real-time. Where, the sensors and their features are provided via subscription to clients.",
             "organization":" Brain Station 23 Ltd.",
             "logo":"../images/BsLogo.jpeg",
             "duration":"June, 2022 - November, 2022"

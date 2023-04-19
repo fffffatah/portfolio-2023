@@ -9,12 +9,12 @@ export default function Experience(){
         <>
             <div style={{'padding-top':'50px'}}>
                 <Container>
-                    <Row xs={1} md={2}>
+                    <Row xs={1} md={1}>
                         {
                             Exps.experience.length?(
                                 Exps.experience.map((experience)=>{
                                     return(
-                                        <Col style={{'padding-top':'15px'}}>
+                                        <Col style={{'padding-top':'25px'}}>
                                             <Card>
                                                 <Card.Header as="h5">{experience.designation}</Card.Header>
                                                 <Card.Body>

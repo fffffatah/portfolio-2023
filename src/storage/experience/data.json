@@ -1,13 +1,22 @@
 {
     "experience":[
         {
+            "designation":"Middle .NET Developer",
+            "technologies":".NET, Microsoft Azure",
+            "details":"",
+            "organization":" Itransition Group",
+            "logo":"../images/ItransitionLogo.png",
+            "url":"https://www.itransition.com/",
+            "duration":"May, 2023 - Current"
+        },
+        {
             "designation":"Software Engineer",
             "technologies":".NET, Microsoft Azure",
             "details":"Working with a medium sized team to provide support for an already existing e-commerce platform, performing bug fixes and planning new features by working with the Business Analyst and Development team.",
             "organization":" ZAAG Systems Limited",
             "logo":"../images/ZaagLogo.png",
             "url":"https://zaagsys.com/",
-            "duration":"December, 2022 - Current"
+            "duration":"December, 2022 - May, 2023"
         },
         {
             "designation":"Associate Software Engineer",

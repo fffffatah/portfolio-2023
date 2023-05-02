@@ -1,7 +1,7 @@
 {
     "experience":[
         {
-            "designation":"Middle .NET Developer",
+            "designation":".NET Developer",
             "technologies":".NET, Microsoft Azure",
             "details":"",
             "organization":" Itransition Group",
@@ -16,7 +16,7 @@
             "organization":" ZAAG Systems Limited",
             "logo":"../images/ZaagLogo.png",
             "url":"https://zaagsys.com/",
-            "duration":"December, 2022 - May, 2023"
+            "duration":"December, 2022 - April, 2023"
         },
         {
             "designation":"Associate Software Engineer",
